@@ -26,3 +26,4 @@ The state of the art, regardless of the blackbox, is:
 * That the wisest update their beliefs in presence of new information.
 * That biases are unavoidable and even useful in face of the alternative- noise.
 * That if you want to be able to accurately learn nuance, you will need more information than if you had not.
+* That the road to improvement is often not smooth.
