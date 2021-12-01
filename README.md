@@ -9,7 +9,7 @@
 * How do we make machines that optimally manipulate these mathematical compressions?
 
 # The state of the art
-These questions are what makes information theorists (whatever that means), in a manner, observational philosophers. These are the latest artisans, the newest watchmakers, the most abstract engineers. These blackboxes help humans emulate and automate observation, attention, pattern-recognition, and inference-making. 
+These questions are what makes information theorists (whatever that means), in a manner, observational philosophers. Here are the latest artisans, the newest watchmakers, the most abstract engineers. The resulting blackboxes help humans emulate and automate observation, attention, pattern-recognition, and inference-making. 
 
 The state of the art, regardless of the blackbox, is:
 * To quantify similarity
