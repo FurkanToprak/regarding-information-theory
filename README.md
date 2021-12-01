@@ -15,7 +15,7 @@ The state of the art, regardless of the blackbox, is:
 * To quantify similarity
 * To wisely select measures of performance
 * To focus on what correlations might explain variability
-* To view information points as samples from probabilistic distributions
+* To view datapoints as samples from probabilistic distributions
 * To produce sufficiently complex blackboxes that can express and learn the desired statistical complexity
 * To make simplifications when possible
 
