@@ -27,7 +27,8 @@ The state of the art, regardless of the blackbox, is:
 * That biases are unavoidable and even useful in face of the alternative- noise.
 * That if you want to be able to accurately learn nuance, you will need more information than if you had not.
 * That the road to improvement is often not smooth.
-* Redundancy leads to reliability.
+* That redundancy leads to reliability.
+* That mathematics - [while still not ripe](https://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/Lagarias3-23.pdf)- is such a strong language to describe reality that it transcends applicability to only humanity or only the physical world we live in. We find again and again that the most fundamental aspects of reality can be found when we go beyond merely representing the physical realm or ourselves; that the "knowledge of the eternal" reveals itself when we try to envision how the relationships and notations we use could be applied to others and imaginary, non-existent realms.
 
 # Contributing
 Agree? Disagree? Open a PR if you want to discuss, add, or revise something.
