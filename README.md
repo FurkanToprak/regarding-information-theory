@@ -1,4 +1,4 @@
-The problems at the heart of information theory:
+# The problems at the heart of information theory:
 
 * How do you discover order among entropy?
 * How does your newly acquired bit of knowledge change your perception about the universe of possibilities?
@@ -8,9 +8,17 @@ The problems at the heart of information theory:
 * Where along the dichotamy of being blindfolded and limited omniescence do we find accurate, performant, explainable, and/or fair mathematical compressions?
 * How do we make machines that optimally manipulate these mathematical compressions?
 
-These questions are what makes information theorists (whatever that means), in a manner, observational philosophers. These are the latest artisans, the newest watchmakers, the most considerate engine designers. These blackboxes help humans emulate and automate observation, attention, pattern-recognition, and inference-making.
+# The state of the art
+These questions are what makes information theorists (whatever that means), in a manner, observational philosophers. These are the latest artisans, the newest watchmakers, the most considerate engine designers. These blackboxes help humans emulate and automate observation, attention, pattern-recognition, and inference-making. 
 
-Here are the simplest lessons we've learned:
+The state of the art, regardless of the blackbox, is:
+* To quantify similarity
+* To focus on what correlations might explain variability
+* To view information points as samples from probabilistic distributions
+* To produce sufficiently complex blackboxes that can express and learn the desired statistical complexity
+* To make simplifications when possible
+
+# Here are the simplest lessons we've learned:
 * That it is reasonable, given that we are not omniescent, to expect temporal and/or spacial relationships to be representative predictors of the composition of reality.
 * That cliche, correlation is not causation; that it is unwise to use observation in place of experimentation.
 * That algorithms, like humans and every cognitive framework, produce limitation, loopholes, exceptions, and self-deception.
