@@ -25,3 +25,4 @@ The state of the art, regardless of the blackbox, is:
 * That algorithms, like humans and every cognitive framework, produce limitation, loopholes, exceptions, and self-deception.
 * That the wisest update their beliefs in presence of new information.
 * That biases are unavoidable and even useful in face of the alternative- noise.
+* That if you want to be able to accurately learn nuance, you will need more information than if you had not.
