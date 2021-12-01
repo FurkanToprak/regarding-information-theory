@@ -5,7 +5,7 @@
 * How do you mathematically embed information in a recoverable manner?
 * How do you play games using data structures and algorithms that allow you to faithfully reflect reality?
 * How to capture variance while optimally sacrificing generalizability?
-* Where along the dichotamy of being blindfolded and limited omniescence do we find accurate, performant, explainable, and/or fair mathematical compressions?
+* Where along the dichotomy of being blindfolded and limited omniescence do we find accurate, performant, explainable, and/or fair mathematical compressions?
 * How do we make machines that optimally manipulate these mathematical compressions?
 
 # The state of the art
@@ -27,3 +27,7 @@ The state of the art, regardless of the blackbox, is:
 * That biases are unavoidable and even useful in face of the alternative- noise.
 * That if you want to be able to accurately learn nuance, you will need more information than if you had not.
 * That the road to improvement is often not smooth.
+* Redundancy leads to reliability.
+
+# Contributing
+Agree? Disagree? Open a PR if you want to discuss, add, or revise something.
