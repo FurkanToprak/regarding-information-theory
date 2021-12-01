@@ -3,7 +3,7 @@
 * How do you discover order among entropy?
 * How does your newly acquired bit of knowledge change your perception about the universe of possibilities?
 * How do you mathematically embed information in a recoverable manner?
-* How do you play games using data structures and algorithms that allow you to faithfully derive information?
+* How do you play games using data structures and algorithms that allow you to faithfully reflect reality?
 * How to capture variance while optimally sacrificing generalizability?
 * Where along the dichotamy of being blindfolded and limited omniescence do we find accurate, performant, explainable, and/or fair mathematical compressions?
 * How do we make machines that optimally manipulate these mathematical compressions?
