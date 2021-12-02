@@ -28,7 +28,7 @@ The state of the art, regardless of the blackbox, is:
 * That if you want to be able to accurately learn nuance, you will need more information than if you had not.
 * That the road to improvement is often not smooth.
 * That redundancy leads to stability.
-* That mathematics - [while still not ripe](https://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/Lagarias3-23.pdf)- is such a strong language to describe reality that it transcends applicability to only humanity or only the physical world we live in. We find again and again that the most fundamental aspects of reality can be found when we go beyond merely representing the physical realm. When we innovate when we analyze our tools and push them to their limits.
+* That mathematics - [while still not ripe](https://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/Lagarias3-23.pdf)- is such a strong language to describe reality that it transcends applicability to only humanity or only the physical world we live in. We find again and again that the most fundamental aspects of reality can be found when we go beyond merely representing the physical realm. We innovate when we analyze our tools and push them to their limits.
 
 # Contributing
 Agree? Disagree? Open a PR if you want to discuss, add, or revise something.
