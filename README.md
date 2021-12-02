@@ -18,6 +18,7 @@ The state of the art, regardless of the blackbox, is:
 * To view datapoints as samples from probabilistic distributions
 * To produce sufficiently complex blackboxes that can express and learn the desired statistical complexity
 * To make simplifications when possible
+* To sacrifice tolerable levels of certainty to save time or space.
 
 # Here are the simplest lessons we've learned:
 * That it is reasonable, given that we are not omniescent, to expect temporal and/or spacial relationships to be representative predictors of the composition of reality.
