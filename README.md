@@ -21,7 +21,7 @@ The state of the art, regardless of the blackbox, is:
 
 # Here are the simplest lessons we've learned:
 * That it is reasonable, given that we are not omniescent, to expect temporal and/or spacial relationships to be representative predictors of the composition of reality.
-* That cliche, correlation is not causation; that it is unwise to use observation in place of experimentation when attempting to explain causational relationships.
+* That cliche, correlation is not causation; that it is unwise to use observation in place of experimentation when attempting to explain causal relationships.
 * That algorithms, like humans and every cognitive framework, produce limitation, loopholes, exceptions, and self-deception.
 * That the wisest update their beliefs in presence of new information.
 * That biases are unavoidable and even useful in face of the alternative- noise.
